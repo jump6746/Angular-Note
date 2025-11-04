@@ -1,6 +1,6 @@
 # Angular-Note
 
-아무도 Angular 예전 버전을 정리해놓질 않아...
+아무도 Angular 예전 버전을 정리해주질 않아...
 
 ## 목차
 
