@@ -9,3 +9,6 @@
 ### [2. Adding Navigate](/docs/adding-navigate/note.md)
 
 ### [3. Manage Data](/docs/manage-data/notes/manage-data.md)
+
+### [Etc. RxJS](/docs/rxjs/note.md)
+
